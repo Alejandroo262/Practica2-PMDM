@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="idNombreForm">Nombre</string>
+    <string name="idApellidosForm">Apellidos</string>
+    <integer name="idTempForm">0</integer>
+    <string name="idCiudadForm">Ciudad</string>
+    <string name="idProvinciaForm">Provincia</string>
+
+</resources>
